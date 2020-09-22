@@ -2,4 +2,3 @@
 #
 daebbf523be390041a1a9c0e340a6d833aae5043                                  	GitHub Replication
 f54859c57ab60697a5f0d0975192478ab81f3d2c                                  	saml/onap-gerrit-clamp-oom-committers
-ldap:cn=onap-gerrit-clamp-oom-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-clamp-oom-committers
